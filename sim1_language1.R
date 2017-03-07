@@ -1,5 +1,5 @@
 
-nruns <- 10000
+nruns <- 10000 # paper used 100000
 
 # function generating responses from a Bayesian learner with a beta prior
 # with and probability matching rule
@@ -230,6 +230,8 @@ legend(x = "topleft", pch=c(19,15), col=c("black","grey50"),pt.cex=c(1,2),
 
 layout(1)
 par(op)
+
+#dev.print(pdf,file="./coinsfail1.pdf",width=8,height=6)
 
 
 
