@@ -1,5 +1,5 @@
 
-nruns <- 10000 # paper used 100000
+nruns <- 100000
 
 # function generating responses from a Bayesian learner with a beta prior
 # with and probability matching rule
