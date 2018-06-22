@@ -1,0 +1,1048 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{bartlett32}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7cf648c115bffcbe803647b8cf68cc03}{Bartlett}{B\bibinitperiod}{F\bibnamedelima C}{F\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{7cf648c115bffcbe803647b8cf68cc03}
+      \strng{fullhash}{7cf648c115bffcbe803647b8cf68cc03}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1932}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Remembering}
+      \field{year}{1932}
+    \endentry
+    \entry{brightonetal05}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b4ee24058ffe2d14df3188027e17c696}{Brighton}{B\bibinitperiod}{Henry}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{de845028fec33c74ba639ed6796ee564}
+      \strng{fullhash}{61cb7b3bbf401ec1f7538957bf219a6b}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics of Life Reviews}
+      \field{title}{Language as evolutionary system}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{177\bibrangedash 226}
+      \range{pages}{50}
+    \endentry
+    \entry{caninietal14}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=53fd9e4b2ec2e2dafa5dd8d177fb3e81}{Canini}{C\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a195175d678a58167eee80936100ae21}{Vanpaemel}{V\bibinitperiod}{Wolf}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cdbba41ccfe2ee761ab485069551239}{Kalish}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0c485497b9e086587e5aa9bc194b4dfe}
+      \strng{fullhash}{d05d357eeba5947d8a975a013343b41c}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{Revealing human inductive biases for category learning by simulating cultural transmission}
+      \field{year}{2014}
+    \endentry
+    \entry{chambersetal03}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=57f908cedec60a5b9a20d82aafd849c9}{Chambers}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3ac07cd801bbba6413e969f7911b1b9a}{Trudgill}{T\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=827dc7ef26a27d10665d54b9a4ce9d8a}{Schilling-Estes}{S\bibinithyphendelim E\bibinitperiod}{N}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{2affc6937a8b4da471fabef89f1bce53}
+      \strng{fullhash}{ff3f218e9ba27e630e687f5d84d0cfd0}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The handbook of language variation and change}
+      \field{year}{2003}
+    \endentry
+    \entry{christiansenchater08}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8480671d753f83fc2ca2c640c3f29d3c}{Christiansen}{C\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68f539b14c5ba5fb2395b9309d555ad7}{Chater}{C\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{573032c4965a0604850d46ae570cb584}
+      \strng{fullhash}{573032c4965a0604850d46ae570cb584}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral and Brain Sciences}
+      \field{title}{Language as shaped by the brain}
+      \field{volume}{31}
+      \field{year}{2008}
+      \field{pages}{489\bibrangedash 558}
+      \range{pages}{70}
+    \endentry
+    \entry{deacon97}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=428323615b16b81cf09f2f61341220be}{Deacon}{D\bibinitperiod}{Terrence}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Co}%
+      }
+      \strng{namehash}{428323615b16b81cf09f2f61341220be}
+      \strng{fullhash}{428323615b16b81cf09f2f61341220be}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The symbolic species}
+      \field{year}{1997}
+    \endentry
+    \entry{ellis15}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb54d5a418cd21ae251279a6646f4d3f}{Ellis}{E\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{cb54d5a418cd21ae251279a6646f4d3f}
+      \strng{fullhash}{cb54d5a418cd21ae251279a6646f4d3f}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Understanding second language acquisition}
+      \field{year}{2015}
+    \endentry
+    \entry{esser_alive_1998}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e8860399e476e312f05539fa282653f}{Esser}{E\bibinitperiod}{James\bibnamedelima K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2e8860399e476e312f05539fa282653f}
+      \strng{fullhash}{2e8860399e476e312f05539fa282653f}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Organizational behavior and human decision processes}
+      \field{number}{2}
+      \field{shorttitle}{Alive and well after 25 years}
+      \field{title}{Alive and well after 25 years: {A} review of groupthink research}
+      \field{volume}{73}
+      \field{year}{1998}
+      \field{pages}{116\bibrangedash 141}
+      \range{pages}{26}
+      \verb{file}
+      \verb Esser_1998_Alive and well after 25 years.pdf:/Users/dan/Dropbox/Apps/ZotPad/Esser_1998_Alive and well after 25 years.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/KE8IFHD6/S0749597898927583.html:text/html
+      \endverb
+    \endentry
+    \entry{faigman2007anecdotal}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d48cbfe435d0a0ba7668422aae5debfe}{Faigman}{F\bibinitperiod}{David\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{d48cbfe435d0a0ba7668422aae5debfe}
+      \strng{fullhash}{d48cbfe435d0a0ba7668422aae5debfe}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hastings Law Journal}
+      \field{title}{Anecdotal forensics, phrenology, and other abject lessons from the history of science}
+      \field{volume}{59}
+      \field{year}{2007}
+      \field{pages}{979\bibrangedash 1000}
+      \range{pages}{22}
+    \endentry
+    \entry{fayellison13}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1d7c539dd717ef2235e5611cd7b48110}{Fay}{F\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86a32261fe756752100b9930a824e5a8}{Ellison}{E\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3eb676247e0a188bf7660a129cb1d077}
+      \strng{fullhash}{3eb676247e0a188bf7660a129cb1d077}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{8}
+      \field{title}{The cultural evolution of human communication systems in different sized propulations: Usability trumps learnability}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{e71781}
+      \range{pages}{-1}
+    \endentry
+    \entry{ferdinandetal14}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=54b0d850ffa3a780540c15576bf78bc7}{Ferdinand}{F\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62d3f083fecbc611b6859c481fc2a37b}
+      \strng{fullhash}{3755b9326167897046ab70da7040e233}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th International Evolution of Language Conference}
+      \field{title}{Regularization in language evolution: on the joint contribution of domain-specific biases and domain-general frequency learning}
+      \field{year}{2014}
+    \endentry
+    \entry{ferdinandetal13}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=54b0d850ffa3a780540c15576bf78bc7}{Ferdinand}{F\bibinitperiod}{Vanessa}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=62604a5eb0c37c01837025d34c7d202f}{Thompson}{T\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62d3f083fecbc611b6859c481fc2a37b}
+      \strng{fullhash}{faabdf574fa141e9914996310be3e73e}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 35th {Annual} {Conference} of the {Cognitive} {Science} {Society}}
+      \field{title}{Regularization behavior in a non-linguistic domain}
+      \field{year}{2013}
+    \endentry
+    \entry{gintis11}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=28a789271210b1599883428ca9ba7997}{Gintis}{G\bibinitperiod}{Herbert}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{28a789271210b1599883428ca9ba7997}
+      \strng{fullhash}{28a789271210b1599883428ca9ba7997}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{title}{Gene-culture coevolution and the nature of human sociality}
+      \field{volume}{366}
+      \field{year}{2011}
+      \field{pages}{878\bibrangedash 888}
+      \range{pages}{11}
+    \endentry
+    \entry{givon85}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=aaf5d2047395d372ba17a7bd231232dc}{Givòn}{G\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c5240023b839dc20428c70938cceb508}{Slobin}{S\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates}%
+      }
+      \strng{namehash}{aaf5d2047395d372ba17a7bd231232dc}
+      \strng{fullhash}{aaf5d2047395d372ba17a7bd231232dc}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1985}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The crosslinguistic study of language acquisition}
+      \field{title}{Function, structure, and language acquisition}
+      \field{volume}{2}
+      \field{year}{1985}
+      \field{pages}{1005\bibrangedash 1028}
+      \range{pages}{24}
+    \endentry
+    \entry{goertzel1994belief}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bc44596c1108f860e4cede28fbd51059}{Goertzel}{G\bibinitperiod}{Ted}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{bc44596c1108f860e4cede28fbd51059}
+      \strng{fullhash}{bc44596c1108f860e4cede28fbd51059}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Political Psychology}
+      \field{title}{Belief in conspiracy theories}
+      \field{year}{1994}
+      \field{pages}{731\bibrangedash 742}
+      \range{pages}{12}
+    \endentry
+    \entry{griffiths_language_2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b50775cbf4f37e7c96ce05c6cf766723}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L.}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=18386aede6ec0543b0c3406ae50d1512}{Kalish}{K\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9af034f5b093ac0612a5b98d62968cdb}
+      \strng{fullhash}{9af034f5b093ac0612a5b98d62968cdb}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{number}{3}
+      \field{title}{Language evolution by iterated learning with {Bayesian} agents}
+      \field{volume}{31}
+      \field{year}{2007}
+      \field{pages}{441\bibrangedash 480}
+      \range{pages}{40}
+      \verb{file}
+      \verb Griffiths_Kalish_2007_Language evolution by iterated learning with Bayesian agents.pdf:/Users/dan/Dropbox/Apps/ZotPad/Griffiths_Kalish_2007_Language evolution by iterated learning with Bayesian agents.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/N6KCKUAZ/full.html:text/html
+      \endverb
+    \endentry
+    \entry{hermannetal07}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=ead2708fdba1706ee96af301f52a4da7}{Hermann}{H\bibinitperiod}{E}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c80c2a6bb03df5927bd4fed15a838432}{Call}{C\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f0d0ff369fa8a78704dbaa80c4c9dc4}{Hernandez-Lloreda}{H\bibinithyphendelim L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=09abfd275de122c1da019af5e2d013cc}{Hare}{H\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5aba1bb65c163cfddd3797b391fda1c7}{Tomasello}{T\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1d0a60e89d7eafeef5dacf30fcb5573f}
+      \strng{fullhash}{e11c473f38b5846794cfb588fda4b66c}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5843}
+      \field{title}{Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis}
+      \field{volume}{317}
+      \field{year}{2007}
+      \field{pages}{1360\bibrangedash 1366}
+      \range{pages}{7}
+    \endentry
+    \entry{hudsonkamnewport05}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=07e88c00ce58655fbce2f7f251414c39}{{Hudson\bibnamedelimb Kam}}{H\bibinitperiod}{Carla}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dfae60a59eda512ec30bc93691cc9140}{Newport}{N\bibinitperiod}{Elissa}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2c44a03fa51cdbf70bc10f21ac508493}
+      \strng{fullhash}{2c44a03fa51cdbf70bc10f21ac508493}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Learning and Development}
+      \field{number}{2}
+      \field{title}{Regularizing unpredictable variation: The roles of adult and child learners in language formation and change}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{151\bibrangedash 195}
+      \range{pages}{45}
+    \endentry
+    \entry{janis1982groupthink}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=52a6d720fa909090b5a5713657f9889b}{Janis}{J\bibinitperiod}{Irving\bibnamedelima Lester}{I\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Houghton Mifflin Boston}%
+      }
+      \strng{namehash}{52a6d720fa909090b5a5713657f9889b}
+      \strng{fullhash}{52a6d720fa909090b5a5713657f9889b}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1982}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Groupthink: Psychological studies of policy decisions and fiascoes}
+      \field{volume}{349}
+      \field{year}{1982}
+    \endentry
+    \entry{kalish_iterated_2007}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=1,hash=0cdbba41ccfe2ee761ab485069551239}{Kalish}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e7ebb66ea12299a9aea6e35ae34511ab}{Lewandowsky}{L\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ab86b2d62e4b98b0d71c3df45aaff82e}
+      \strng{fullhash}{85e90cd33389fddb171b8f4093120afd}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{number}{2}
+      \field{shorttitle}{Iterated learning}
+      \field{title}{Iterated learning: {Intergenerational} knowledge transmission reveals inductive biases}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{288\bibrangedash 294}
+      \range{pages}{7}
+      \verb{file}
+      \verb Kalish et al_2007_Iterated learning.pdf:/Users/dan/Dropbox/Apps/ZotPad/Kalish et al_2007_Iterated learning.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/TXKEMMRU/BF03194066.html:text/html
+      \endverb
+    \endentry
+    \entry{kempregier12}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d3d5c11491b1f45f9d77946df28b87a9}{Kemp}{K\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0225adbedae10539fd24476b498668b4}{Regier}{R\bibinitperiod}{Terry}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{973f84cfa3be99b96cb1d9c3b4059a4c}
+      \strng{fullhash}{973f84cfa3be99b96cb1d9c3b4059a4c}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6084}
+      \field{title}{Kinship categories across languages reflect general communicative principles}
+      \field{volume}{336}
+      \field{year}{2012}
+      \field{pages}{1049\bibrangedash 1054}
+      \range{pages}{6}
+    \endentry
+    \entry{kirby00}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{466ad0e29b90ba35b93ae3a5b45f2e2b}
+      \strng{fullhash}{466ad0e29b90ba35b93ae3a5b45f2e2b}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The evolutionary emergence of language: Social function and the origins of linguistic form}
+      \field{journaltitle}{The evolutionary emergence of language: Social function and the origins of linguistic form}
+      \field{title}{Syntax without natural selection: How compositionality emerges from vocabulary in a population of learners}
+      \field{year}{2000}
+      \field{pages}{303\bibrangedash 323}
+      \range{pages}{21}
+    \endentry
+    \entry{kirby01}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{466ad0e29b90ba35b93ae3a5b45f2e2b}
+      \strng{fullhash}{466ad0e29b90ba35b93ae3a5b45f2e2b}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Evolutionary Computation}
+      \field{number}{2}
+      \field{title}{Spontaneous evolution of linguistic structure: An iterated learning model of the emergence of regularity and irregularity}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{102\bibrangedash 110}
+      \range{pages}{9}
+    \endentry
+    \entry{kirbyetal08}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0295a129288c40a0a99629d34d6803f}{Cornish}{C\bibinitperiod}{Hannah}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05cc0fca7bd30ba5e905fc68a9034123}
+      \strng{fullhash}{a7c15fb6bbc2ef7bcb93fb657ba2ca57}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{31}
+      \field{title}{Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{10681\bibrangedash 10686}
+      \range{pages}{6}
+    \endentry
+    \entry{kirbyetal07}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=aab2dc1c4b07b4a024aa2bbe33e2d353}{Dowman}{D\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05cc0fca7bd30ba5e905fc68a9034123}
+      \strng{fullhash}{9ac4b341ba7dc0f08eb7e38675b2f750}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{12}
+      \field{title}{Innateness and culture in the evolution of language}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{5241\bibrangedash 5245}
+      \range{pages}{5}
+    \endentry
+    \entry{kirbyetal14}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05cc0fca7bd30ba5e905fc68a9034123}
+      \strng{fullhash}{1d12525d89729ce5567b39a81b3e84ce}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Opinion in Neurobiology}
+      \field{number}{108-114}
+      \field{title}{Iterated learning and the evolution of language}
+      \field{volume}{28C}
+      \field{year}{2014}
+    \endentry
+    \entry{kirbyetal15}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b1cb64537febfa5e7cb79496413e02cd}{Tamariz}{T\bibinitperiod}{Monica}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0295a129288c40a0a99629d34d6803f}{Cornish}{C\bibinitperiod}{Hannah}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{05cc0fca7bd30ba5e905fc68a9034123}
+      \strng{fullhash}{d36abfe58829ec90ea0dd35d73dae016}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{Compression and communication in the cultural evolution of linguistic structure}
+      \field{volume}{141}
+      \field{year}{2015}
+      \field{pages}{87\bibrangedash 102}
+      \range{pages}{16}
+    \endentry
+    \entry{lewvul15}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=36402bf90645652976ff8d016997ce94}{Lew}{L\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c208d6122c757f1b6a9e04fbbddab880}{Vul}{V\bibinitperiod}{Ed}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e280b000f51e17fa67daab8a64b2cde}
+      \strng{fullhash}{7e280b000f51e17fa67daab8a64b2cde}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 37th {Annual} {Conference} of the {Cognitive} {Science} {Society}, {Austin}, {TX}. {Cognitive} {Science} {Society}}
+      \field{title}{Structured priors in visual working memory revealed through iterated learning}
+      \field{year}{2015}
+    \endentry
+    \entry{lewandowskyetal09}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=e7ebb66ea12299a9aea6e35ae34511ab}{Lewandowsky}{L\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cdbba41ccfe2ee761ab485069551239}{Kalish}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{615f8281382b83581d861b0e2cc6eb79}
+      \strng{fullhash}{1a17ed1fcbaeb0681456f6831bffcdfd}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{title}{The wisdom of individuals: Exploring people's knowledge about everyday events using iterated learning}
+      \field{volume}{33}
+      \field{year}{2009}
+      \field{pages}{969\bibrangedash 998}
+      \range{pages}{30}
+    \endentry
+    \entry{lichtenstein_calibration_1977}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=ec8a5f362c9b1c85486f4db13c9599c6}{Lichtenstein}{L\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a871ec185651df861c13fb233af2ff87}{Fischhoff}{F\bibinitperiod}{Baruch}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f2dc08cbd26bb8abda599aabc6c41f6}{Phillips}{P\bibinitperiod}{Lawrence\bibnamedelima D.}{L\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8df13c530aeb4375e0a68311fadb882c}
+      \strng{fullhash}{a02654173563df5fdc852046b3613764}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1977}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Decision making and change in human affairs}
+      \field{shorttitle}{Calibration of probabilities}
+      \field{title}{Calibration of probabilities: {The} state of the art}
+      \field{year}{1977}
+      \field{pages}{275\bibrangedash 324}
+      \range{pages}{50}
+      \verb{file}
+      \verb Lichtenstein et al_1977_Calibration of probabilities.pdf:/Users/dan/Dropbox/Apps/ZotPad/Lichtenstein et al_1977_Calibration of probabilities.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/BN8R9JE2/978-94-010-1276-8_19.html:text/html
+      \endverb
+    \endentry
+    \entry{morganlevy16}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=626c1726f3c3b6d88a0234ceb9213f6e}{Morgan}{M\bibinitperiod}{Emily}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2e20881923b91d44e8f1ba7e0f38f42c}{Levy}{L\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{401c672283ae1e8127bd31782c3e366a}
+      \strng{fullhash}{401c672283ae1e8127bd31782c3e366a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Evolang}
+      \field{title}{Frequency-dependent regularisation in iterated learning}
+      \field{year}{2016}
+    \endentry
+    \entry{nosofsky_attention_1986}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=52fe480b53aa9da45858d8e56989ea23}{Nosofsky}{N\bibinitperiod}{Robert\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{52fe480b53aa9da45858d8e56989ea23}
+      \strng{fullhash}{52fe480b53aa9da45858d8e56989ea23}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{number}{1}
+      \field{title}{Attention, similarity, and the identification-categorization relationship}
+      \field{volume}{115}
+      \field{year}{1986}
+      \field{pages}{39\bibrangedash 57}
+      \range{pages}{19}
+      \verb{file}
+      \verb Nosofsky_1986_Attention, similarity, and the identification--categorization relationship.pdf:/Users/dan/Other/Zotero/storage/QV6E8RGT/Nosofsky_1986_Attention, similarity, and the identification--categorization relationship.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{nosofsky_relation_1991}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=52fe480b53aa9da45858d8e56989ea23}{Nosofsky}{N\bibinitperiod}{Robert\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{52fe480b53aa9da45858d8e56989ea23}
+      \strng{fullhash}{52fe480b53aa9da45858d8e56989ea23}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1991}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Science}
+      \field{number}{6}
+      \field{title}{Relation between the rational model and the context model of categorization}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{416\bibrangedash 421}
+      \range{pages}{6}
+      \verb{file}
+      \verb Nosofsky_1991_Relation between the rational model and the context model of categorization.pdf:/Users/dan/Dropbox/Apps/ZotPad/Nosofsky_1991_Relation between the rational model and the context model of categorization.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/BZMQSU8E/416.html:text/html
+      \endverb
+    \endentry
+    \entry{pcast2016}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b3ffb314a2102011765343267166234e}{PCAST}{P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {President's Council of Advisors on Science}%
+        {Technology}%
+      }
+      \strng{namehash}{b3ffb314a2102011765343267166234e}
+      \strng{fullhash}{b3ffb314a2102011765343267166234e}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forensic Science in Criminal Courts: Ensuring Scientific Validity of Feature-Comparison Methods}
+      \field{year}{2016}
+    \endentry
+    \entry{perforsnavarro14}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c7911d896a4b92159eaaac6d5b30812b}{Perfors}{P\bibinitperiod}{Amy}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=beb1b1b468228bbaa2ffec97f078316b}{Navarro}{N\bibinitperiod}{Daniel\bibnamedelima Joseph}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f84b4c0cf2b0333bdcbd468481af8b75}
+      \strng{fullhash}{f84b4c0cf2b0333bdcbd468481af8b75}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{number}{4}
+      \field{title}{Language evolution can be shaped by the structure of the world}
+      \field{volume}{38}
+      \field{year}{2014}
+      \field{pages}{775\bibrangedash 793}
+      \range{pages}{19}
+    \endentry
+    \entry{pinker03}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=026a9bbaeb03e57886733eb6c1f1be1c}{Pinker}{P\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8480671d753f83fc2ca2c640c3f29d3c}{Christiansen}{C\bibinitperiod}{Morten}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{026a9bbaeb03e57886733eb6c1f1be1c}
+      \strng{fullhash}{026a9bbaeb03e57886733eb6c1f1be1c}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language evolution: States of the art}
+      \field{title}{Language as an adaptation to the cognitive niche}
+      \field{year}{2003}
+      \field{pages}{16\bibrangedash 37}
+      \range{pages}{22}
+    \endentry
+    \entry{pinkerbloom90}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=026a9bbaeb03e57886733eb6c1f1be1c}{Pinker}{P\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea3ef05bf24aa259513c3414c4eb0007}{Bloom}{B\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f90786d5df2975e9eb62ce66eddc091b}
+      \strng{fullhash}{f90786d5df2975e9eb62ce66eddc091b}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral and Brain Sciences}
+      \field{number}{4}
+      \field{title}{Natural language and natural selection}
+      \field{volume}{13}
+      \field{year}{1990}
+      \field{pages}{707\bibrangedash 784}
+      \range{pages}{78}
+    \endentry
+    \entry{pinkerjackendoff05}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=026a9bbaeb03e57886733eb6c1f1be1c}{Pinker}{P\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b68931db7c8603212dcc17319b69cb73}{Jackendoff}{J\bibinitperiod}{Ray}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{36294e4e9766d03d3fdcd018fd9af543}
+      \strng{fullhash}{36294e4e9766d03d3fdcd018fd9af543}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{2}
+      \field{title}{The faculty of language: what's special about it?}
+      \field{volume}{95}
+      \field{year}{2005}
+      \field{pages}{201\bibrangedash 236}
+      \range{pages}{36}
+    \endentry
+    \entry{pothos_predicting_2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=45ac60c74d85834de0bd905c5279845d}{Pothos}{P\bibinitperiod}{Emmanuel\bibnamedelima M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=10b76b39f3dcfdd6ea751dbba8896da8}{Bailey}{B\bibinitperiod}{Todd\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{81b3236014ccdb22f47150e1b31cf8f6}
+      \strng{fullhash}{81b3236014ccdb22f47150e1b31cf8f6}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{4}
+      \field{title}{Predicting category intuitiveness with the rational model, the simplicity model, and the generalized context model}
+      \field{volume}{35}
+      \field{year}{2009}
+      \field{pages}{1062\bibrangedash 1080}
+      \range{pages}{19}
+      \verb{file}
+      \verb Pothos_Bailey_2009_Predicting category intuitiveness with the rational model, the simplicity.pdf:/Users/dan/Dropbox/Apps/ZotPad/Pothos_Bailey_2009_Predicting category intuitiveness with the rational model, the simplicity.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{raffertyetal14}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=0d5a9d430677b88c120318021fa935e7}{Rafferty}{R\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2985f0b53f7b356988c46b34caee073f}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9fb237891a1517d36109c68767dd6fae}{Klein}{K\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{525aa0b9d3df55ec72c88c6d961c06d4}
+      \strng{fullhash}{42a30dd650de6b3d31d46425d906e0af}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{title}{Analyzing the rate at which languages lose the influence of a common ancestor}
+      \field{volume}{38}
+      \field{year}{2014}
+      \field{pages}{1406\bibrangedash 1431}
+      \range{pages}{26}
+    \endentry
+    \entry{realigriffiths09}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9049597d243b5afc4a9426df738435b6}{Reali}{R\bibinitperiod}{Florencia}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b50775cbf4f37e7c96ce05c6cf766723}{Griffiths}{G\bibinitperiod}{Thomas\bibnamedelima L.}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{df4eef0d124c423dfdb8b62e759fbfbb}
+      \strng{fullhash}{df4eef0d124c423dfdb8b62e759fbfbb}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{The evolution of frequency distributions: Relating regularization to inductive biases through iterated learning}
+      \field{volume}{111}
+      \field{year}{2009}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
+    \endentry
+    \entry{russo_managing_1992}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a602af08fec18b37502baa5885744a00}{Russo}{R\bibinitperiod}{J.\bibnamedelimi Edward}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fa6c4160a2d47cc68786a1cf5079ee88}{Schoemaker}{S\bibinitperiod}{Paul\bibnamedelima JH}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b82af2d90836df6eabb7f8868d242a1c}
+      \strng{fullhash}{b82af2d90836df6eabb7f8868d242a1c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sloan management review}
+      \field{number}{2}
+      \field{title}{Managing overconfidence}
+      \field{volume}{33}
+      \field{year}{1992}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb Russo_Schoemaker_1992_Managing overconfidence.pdf:/Users/dan/Dropbox/Apps/ZotPad/Russo_Schoemaker_1992_Managing overconfidence.pdf:application/pdf;Snapshot:/Users/dan/Other/Zotero/storage/XUBGTMR9/1302972428.html:text/html
+      \endverb
+    \endentry
+    \entry{scottphillips14}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=038330b411d310344051c4956bca9228}{Scott-Phillips}{S\bibinithyphendelim P\bibinitperiod}{Thom}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{038330b411d310344051c4956bca9228}
+      \strng{fullhash}{038330b411d310344051c4956bca9228}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Speaking our minds: Why human communication is different, and how language evolved to make it special}
+      \field{year}{2014}
+    \endentry
+    \entry{silveyetal14}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=89d689aaa6f0c7b55c8f8770371aaa6e}{Silvey}{S\bibinitperiod}{Catriona}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=466ad0e29b90ba35b93ae3a5b45f2e2b}{Kirby}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a378c27984f9711ede34589e6af56713}
+      \strng{fullhash}{85a034e0042f5fb3bdb3ceb3e0169f06}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{title}{Word meanings evolve to selectively preserve distinctions on salient dimensions}
+      \field{year}{2014}
+    \endentry
+    \entry{smithetal16}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c7911d896a4b92159eaaac6d5b30812b}{Perfors}{P\bibinitperiod}{Amy}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=01246925b11ab04167024b56ea2a5eae}{Fehér}{F\bibinitperiod}{Olga}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=79672d053fe5880788254d62492f91c5}{Samara}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f60d26bf20b184db10ad09ead2efaf90}{Swoboda}{S\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=65c7629c4c9374aed8db3dd437ca0fa3}{Wonnacott}{W\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6a077f22520567857d363c8491019731}
+      \strng{fullhash}{aec7736681d2dae5d7582a3124dd5def}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{in press}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B}
+      \field{title}{Language learning, language use, and the evolution of linguistic variation}
+      \field{year}{in press}
+    \endentry
+    \entry{smithwonnacott10}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=411f2bbc9a4add6206457602060eff73}{Smith}{S\bibinitperiod}{Kenny}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=65c7629c4c9374aed8db3dd437ca0fa3}{Wonnacott}{W\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1bfbcb71eaa5042d82181396071a598e}
+      \strng{fullhash}{1bfbcb71eaa5042d82181396071a598e}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{Eliminating unpredictable variation through iterated learning}
+      \field{volume}{116}
+      \field{year}{2010}
+      \field{pages}{444\bibrangedash 449}
+      \range{pages}{6}
+    \endentry
+    \entry{sperber96}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=668bce40d496b0ee9fba07b4b1040e79}{Sperber}{S\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{668bce40d496b0ee9fba07b4b1040e79}
+      \strng{fullhash}{668bce40d496b0ee9fba07b4b1040e79}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Explaining culture: A naturalistic approach}
+      \field{year}{1996}
+    \endentry
+    \entry{tomasello99}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=77ba606992793299baec3aba2126873e}{Tomasello}{T\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{77ba606992793299baec3aba2126873e}
+      \strng{fullhash}{77ba606992793299baec3aba2126873e}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The cultural origins of human cognition}
+      \field{year}{1999}
+    \endentry
+    \entry{vouloumanos08}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2aacbad8176e185be47468258b815324}{Vouloumanos}{V\bibinitperiod}{Athena}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2aacbad8176e185be47468258b815324}
+      \strng{fullhash}{2aacbad8176e185be47468258b815324}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{Fine-grained sensitivity to statistical information in adult word learning}
+      \field{volume}{107}
+      \field{year}{2008}
+      \field{pages}{729\bibrangedash 742}
+      \range{pages}{14}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
